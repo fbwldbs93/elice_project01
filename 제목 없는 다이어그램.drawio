@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-08-23T07:25:08.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="kWNYgQYQEs1HiCtnOSuH" version="20.2.6" type="github"><diagram id="XPQXRGtO2yzyQCLPdted" name="페이지-1">1ZjLjpswFIafpQsvW3ELY5bc2m4qdSaKuvaAC64gjozJpU9fG5urGc200oh0EznH9gG+/+ccJ8CN6+sXhk7lN5rjCjhWfgVuAhwneLDFpwzcVMC2bKgiBSO5jo2BPfmN+4U62pIcN7OFnNKKk9M8mNHjEWd8FkOM0ct82U9aza96QgU2AvsMVWb0B8l5qaKOZVnjxFdMipIvZ2rUr9aBpkQ5vUxCbgrcmFHK1ai+xriS9Howat/nF2aHO2P4yN+y4fGxSClsE+zxOn0+sDQ8kI+OynJGVaufeJ+VuEaNvmd+60kw2h5zLHPZwI0uJeF4f0KZnL0I7UWs5HWlp3VWzDi+vni79gBB2AfTGnN2E0v0Bl9j085xe0dcJjL0aMuJAv0+pJUvhswjGzHQeP4ClWug6uy+PSnPuTdUnoEKpBEIYxBBkMYAeiAQiS2QJiCAINh1wQgESRfsFoSeHISWnHX8Stxx9MzEqOADtFXk1ibmDN5I3HbeC/luBXkoeUeWZB+5mr0gCm05ELBFxLHip0PSa7EDoRIISl2UFkoCKZ8vFdyavGH27dH7JvolJXzMQ9mNxLesQk1DsjmYOUW1HedGa3oV0gTCboVBH2O4Qpyc5+nXuOgrfKdEXHjQwAkWGngLtA1tWYb1rmlLWiTy7FcSccQKzI1EnUzDY/+7ctBQjggZrp9+bV/UlxVm65IeGKiSqCsjD12FEaXGkYOty8MCm21tXh16i0+PWJidiWBwZx7bwa1NZtsrXaw7GozHgbg/IziyHUkHhiAMdPsSXUt0KhiCwPuPetpCB9/f3rTmYfeJthyzzT277P93YNq1067hMe3PeN2WYlngapOLgxlU7g1lRYW9YyPl7e5dWHsFPmzu46U272pk8XX87awOBONfEG76Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-23T07:26:02.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="U3oUFvO7frHaIc_FoCgs" version="20.2.6" type="github">
+  <diagram id="XPQXRGtO2yzyQCLPdted" name="페이지-1">
+    <mxGraphModel dx="825" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QQgEo8uDe4tmEbUrEAUi-2" value="Schemas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="310" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQgEo8uDe4tmEbUrEAUi-3" value="Models" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="310" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQgEo8uDe4tmEbUrEAUi-4" value="문서 형식 설정&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="390" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QQgEo8uDe4tmEbUrEAUi-5" value="기본적인 CRUD 함수 정리" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="390" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QQgEo8uDe4tmEbUrEAUi-6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="340" as="sourcePoint" />
+            <mxPoint x="410" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQgEo8uDe4tmEbUrEAUi-8" value="index.js" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="30" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQgEo8uDe4tmEbUrEAUi-9" value="DB연결" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="100" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QQgEo8uDe4tmEbUrEAUi-10" value="Service" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="580" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQgEo8uDe4tmEbUrEAUi-11" value="실제 사용하는 함수 정리" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="660" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="QQgEo8uDe4tmEbUrEAUi-13" value="Router" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="580" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQgEo8uDe4tmEbUrEAUi-14" value="정리한 함수들을 가져다 사용!" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="660" width="220" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
